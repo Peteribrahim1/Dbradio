@@ -47,7 +47,7 @@ class RadioScreen extends StatelessWidget {
                     ),
                     child: const Center(
                       child: Text(
-                        'Now Playing',
+                        'Program Schedule',
                         style: Styles.program,
                       ),
                     ),

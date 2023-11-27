@@ -29,6 +29,41 @@ class Styles {
     color: Colors.white,
   );
 
+  static const item = TextStyle(
+    fontFamily: 'SFPRODISPLAY',
+    fontSize: 16,
+    fontWeight: FontWeight.w500,
+    color: Color.fromRGBO(235, 237, 239, 1),
+  );
+
+  static const heading = TextStyle(
+    fontFamily: 'SFPRODISPLAY',
+    fontSize: 14,
+    fontWeight: FontWeight.w700,
+    color: Color.fromRGBO(255, 255, 255, 1),
+  );
+
+  static const head_module = TextStyle(
+    fontFamily: 'SFPRODISPLAY',
+    fontSize: 22,
+    fontWeight: FontWeight.w700,
+    color: Color.fromRGBO(255, 255, 255, 1),
+  );
+
+  static const time = TextStyle(
+    fontFamily: 'SFPRODISPLAY',
+    fontSize: 12,
+    fontWeight: FontWeight.w500,
+    color: Color.fromRGBO(255, 255, 255, 1),
+  );
+
+  static const psmall = TextStyle(
+    fontFamily: 'SFPRODISPLAY',
+    fontSize: 12,
+    fontWeight: FontWeight.w500,
+    color: Color.fromRGBO(145, 142, 142, 1),
+  );
+
 static const program = TextStyle(
     fontFamily: 'SFPRODISPLAY',
     fontSize: 14,
